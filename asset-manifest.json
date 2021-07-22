@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Zeonnatios/trivia/static/css/main.8b1e444f.chunk.css",
+    "main.js": "/Zeonnatios/trivia/static/js/main.f7b2f279.chunk.js",
+    "main.js.map": "/Zeonnatios/trivia/static/js/main.f7b2f279.chunk.js.map",
+    "runtime-main.js": "/Zeonnatios/trivia/static/js/runtime-main.7fc508bc.js",
+    "runtime-main.js.map": "/Zeonnatios/trivia/static/js/runtime-main.7fc508bc.js.map",
+    "static/js/2.4b728084.chunk.js": "/Zeonnatios/trivia/static/js/2.4b728084.chunk.js",
+    "static/js/2.4b728084.chunk.js.map": "/Zeonnatios/trivia/static/js/2.4b728084.chunk.js.map",
+    "index.html": "/Zeonnatios/trivia/index.html",
+    "static/css/main.8b1e444f.chunk.css.map": "/Zeonnatios/trivia/static/css/main.8b1e444f.chunk.css.map",
+    "static/js/2.4b728084.chunk.js.LICENSE.txt": "/Zeonnatios/trivia/static/js/2.4b728084.chunk.js.LICENSE.txt",
+    "static/media/trivia.7e9181d3.png": "/Zeonnatios/trivia/static/media/trivia.7e9181d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc508bc.js",
+    "static/js/2.4b728084.chunk.js",
+    "static/css/main.8b1e444f.chunk.css",
+    "static/js/main.f7b2f279.chunk.js"
+  ]
+}
