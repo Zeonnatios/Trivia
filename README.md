@@ -1,5 +1,6 @@
 <h1 align="center">Trivia</h1>
 
+
 <p align="center">Olá, seja bem vindo(a) ao projeto Trivia. <br>
 Esse projeto foi desenvolvido em grupo durante o curso da Trybe no módulo de Front-end, utilizando
  <a href="https://pt-br.reactjs.org/"> React</a> e <a href="https://redux.js.org/"> Redux</a>. </p>
@@ -7,12 +8,15 @@ Esse projeto foi desenvolvido em grupo durante o curso da Trybe no módulo de Fr
  <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#checkered_flag-status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#notebook-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#eyes-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologist-integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+<h4 align="center"> 
+	🚧  Trivia 🚀 Em construção...  🚧
+</h4>
 
 <h2>:bookmark: Sobre</h2>
 <p>
@@ -28,11 +32,6 @@ Este projeto é um jogo de perguntas e respostas baseado no jogo Trivia (tipo um
 -  [React](https://pt-br.reactjs.org/)
 -  [Redux](https://redux.js.org/)
 
-
-
-
-<h2>:checkered_flag: Status</h2>
-
 <h2>:hammer_and_wrench: Features</h2>
 
 - [x] O usuário poderá logar no joga, e caso o email tiver cadastro no site Gravatar, ter sua foto associada ao perfil de usuária.
@@ -42,6 +41,13 @@ Este projeto é um jogo de perguntas e respostas baseado no jogo Trivia (tipo um
 - [x] Visualizar a página de ranking, se quiser, ao final de cada jogo.
 
 <h2>:notebook: Instalação</h2>
+<h3>Pré-requisitos</h3>
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+<a href="https://git-scm.com/">Git</a> e <a href="https://nodejs.org/en/">Node.js</a>.
+
+
+
 <h2>:eyes: Demonstração</h2>
 <h2>:technologist: Integrantes</h2>
 
