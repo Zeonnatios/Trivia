@@ -92,15 +92,6 @@ class Card extends React.Component {
             </button>
           </Link>
           <hr className="hr-login" />
-          <Link to="/settings">
-            <button
-              className="settings-button"
-              type="button"
-              data-testid="btn-settings"
-            >
-              Configurações
-            </button>
-          </Link>
         </form>
       </div>
     );
