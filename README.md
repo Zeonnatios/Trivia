@@ -1,5 +1,5 @@
+<img src="trivia-app.png" />
 <h1 align="center">Trivia</h1>
-
 
 <p align="center">Olá, seja bem vindo(a) ao projeto Trivia. <br>
 Esse projeto foi desenvolvido em grupo durante o curso da Trybe no módulo de Front-end, utilizando
