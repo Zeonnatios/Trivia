@@ -1,4 +1,5 @@
-<img src="trivia-app.png" />
+<img src="trivia-app.png" alt="Trivia banner" />
+
 <h1 align="center">Trivia</h1>
 
 <p align="center">Olá, seja bem vindo(a) ao projeto Trivia. <br>
@@ -14,10 +15,6 @@ Esse projeto foi desenvolvido em grupo durante o curso da Trybe no módulo de Fr
   <a href="#technologist-integrantes">Integrantes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4 align="center"> 
-	🚧  Trivia 🚀 Em construção...  🚧
-</h4>
-
 <h2>:bookmark: Sobre</h2>
 <p>
 Este projeto é um jogo de perguntas e respostas baseado no jogo Trivia (tipo um show do milhão americano rs) utilizando React e Redux, desenvolvendo em grupo.
@@ -27,7 +24,6 @@ Este projeto é um jogo de perguntas e respostas baseado no jogo Trivia (tipo um
 <h2>:rocket: Tecnologias</h2>
  
  As seguintes ferramentas foram usadas na construção do projeto:
- 
  
 -  [React](https://pt-br.reactjs.org/)
 -  [Redux](https://redux.js.org/)
@@ -44,27 +40,48 @@ Este projeto é um jogo de perguntas e respostas baseado no jogo Trivia (tipo um
 <h3>Pré-requisitos</h3>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-<a href="https://git-scm.com/">Git</a> e <a href="https://nodejs.org/en/">Node.js</a>.
 
+ **Node**: [Download Node.js](https://nodejs.org/en/download/)
+ 
+ **Git**: [Download Git](https://git-scm.com/downloads)
+ 
+ <h3>Rodando a aplicação</h3>
+ 
+ ```bash
+ # Clone este repositório
+$ git clone  <https://github.com/Zeonnatios/trivia>
 
+# Acesse a pasta do projeto no terminal/cmd
+$ cd trivia/
 
-<h2>:eyes: Demonstração</h2>
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+ <h2>:eyes: Demonstração</h2>
+
+<img src="trivia-demo.gif" alt="Trivia demo gif" />
+
 <h2>:technologist: Integrantes</h2>
 
 <table>
   <tr>
    <td align="center"><a href="https://github.com/Zeonnatios">
-     <img src="https://avatars.githubusercontent.com/u/38297929?v=4" width="100px;" alt=""/>
+     <img src="https://avatars.githubusercontent.com/u/38297929?v=4" width="125px;" style="border-radius:50%" alt="Matheus Antonio"/>
      <br /><sub><b>Matheus Antonio</b></sub></a><br /><a href="https://github.com/Zeonnatios" title="GitHub Matheus Antonio">🚀</a>
    </td>
    
    <td align="center"><a href="https://github.com/LeoFuna">
-     <img src="https://avatars.githubusercontent.com/u/80538553?v=4" width="100px;" alt=""/>
+     <img src="https://avatars.githubusercontent.com/u/80538553?v=4" width="125px;" style="border-radius:50%" alt="Leonardo Funabashi"/>
      <br /><sub><b>Leonardo Funabashi</b></sub></a><br /><a href="https://github.com/LeoFuna" title="GitHub Leonardo Funabashi">🚀</a>
    </td>
    
    <td align="center"><a href="https://github.com/heyynat">
-     <img src="https://avatars.githubusercontent.com/u/54861311?v=4" width="100px;" alt=""/>
+     <img src="https://avatars.githubusercontent.com/u/54861311?v=4" width="125px;" style="border-radius:50%" alt="Natali Lima"/>
      <br /><sub><b>Natali Lima</b></sub></a><br /><a href="https://github.com/heyynat" title="GitHub Natali Lima">🚀</a>
    </td>
   
